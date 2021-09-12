@@ -8,7 +8,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_URL="https://ananos.tk"
-ORG_LOGO="http://ananos.tk/images/logo.png"
+ORG_LOGO="http://ananos.tk/images/logo.jpg"
 ORG_DESCRIPTION="The fork of the fork and the people who don't try"
 ORG_TWITTER="@AnanosCoin"
 ORG_OFFICIAL_EMAIL="ananoscoin@gmail.com"
@@ -20,6 +20,6 @@ display_decimals=6
 name="Ananos"
 desc="The fork of the fork"
 conditions="There will be only 28200000000 Ananos tokens in existence."
-image="http://ananos.tk/images/logo.png"
+image="http://ananos.tk/images/logo.jpg"
 fixed_number=28200000000
 
