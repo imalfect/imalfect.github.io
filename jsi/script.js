@@ -25,7 +25,7 @@ function loadJSI() {
     let x = 0
     let y = 0
     for (const color of res.pixels) {
-        ctx.fillStyle = color
+        ctx.fillStyle = '#' + color
         ctx.fillRect(x,y,1,1)
         x = x + 1
         if (x === res.width) {
